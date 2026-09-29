@@ -40,6 +40,8 @@ SSAFY에서 작성한 Java 코드를 **문제 출처별로 분류**했습니다.
 
 ## Teacher: 수업 개념 코드
 
+복습용 설명은 [Notion: Teacher 알고리즘 핵심 정리](https://app.notion.com/p/3eaf64bf8f5281d0a6ffcd55e31be4e9)에서 볼 수 있습니다.
+
 | 개념 | 코드 | 기억할 점 |
 | --- | --- | --- |
 | 순열 | [perm/Solution.java](Teacher/perm/Solution.java), [fPerm/Main.java](Teacher/fPerm/Main.java) | 순서가 중요; 방문 배열 또는 비트마스크 |
