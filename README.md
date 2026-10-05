@@ -21,6 +21,10 @@
 | --- | --- | --- |
 | 8382 방향 전환 | BFS, 수학 | [BFS](SWEA/p8382/Solution.java) · [수학](SWEA/p8382/SolutionMath.java) |
 | 1767 프로세서 연결하기 | 백트래킹 | [코드](SWEA/p1767/Solution.java) |
+| 3421 | 문제 풀이 | [코드](SWEA/p3421/Solution.java) · [풀이 2](SWEA/p3421/Solution2.java) |
+| 5251 | 문제 풀이 | [코드](SWEA/p5251/Solution.java) |
+| 7465 | 문제 풀이 | [코드](SWEA/p7465/Solution.java) |
+| 17490 | 문제 풀이 | [코드](SWEA/p17490/Solution.java) |
 
 ## Codetree
 
@@ -50,3 +54,7 @@
 ## 기타
 
 [일타싸피 템플릿](Practice/JavaCode.java) · [코딩테스트 연습](Practice/codingTest/codingTest.java)
+
+## sepTest
+
+[시험 연습 코드와 입력 파일](sepTest/src/) · Eclipse 프로젝트 설정 포함.
