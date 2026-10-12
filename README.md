@@ -48,6 +48,7 @@
 | 중복 조합 | [multiCombi](Teacher/multiCombi/Main.java) · [combi](Teacher/combi/Solution.java)¹ |
 | 부분집합 | [visited](Teacher/subset/Solution.java) · [bitmask](Teacher/fSubset/Solution.java) |
 | 다음 순열 | [표준](Teacher/nextPerm/StdMain.java) · [Last](Teacher/nextPerm/LastMain.java) · [연습](Teacher/nextPerm/SudoMain.java) |
+| 벨만–포드 | [코드](Teacher/belman/Solution.java) · [입력](Teacher/belman/bellman-ford-input.txt) · [정답](Teacher/belman/bellman-ford-answer.txt) |
 
 ¹ `combi`: 이름과 달리 중복 조합 (`i` 재선택).
 
