@@ -23,6 +23,7 @@
 | 1767 프로세서 연결하기 | 백트래킹 | [코드](SWEA/p1767/Solution.java) |
 | 3421 | 문제 풀이 | [코드](SWEA/p3421/Solution.java) · [풀이 2](SWEA/p3421/Solution2.java) |
 | 5251 | 문제 풀이 | [코드](SWEA/p5251/Solution.java) |
+| 5643 키 순서 | 플로이드 워셜, 도달 가능성 | [원본](SWEA/p5643/Solution.java) · [개선 풀이](SWEA/p5643/Solution2.java) |
 | 7465 | 문제 풀이 | [코드](SWEA/p7465/Solution.java) |
 | 17490 | 문제 풀이 | [코드](SWEA/p17490/Solution.java) |
 
