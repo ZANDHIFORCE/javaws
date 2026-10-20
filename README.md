@@ -8,6 +8,7 @@
 | [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | BFS, 3차원 방문 | [BFS](BOJ/p1600/bfsMain.java) · [DFS 연습](BOJ/p1600/Solution.java) |
 | [17281 ⚾](https://www.acmicpc.net/problem/17281) | 순열, 시뮬레이션 | [코드](BOJ/p17281/Main.java) |
 | [17471 게리맨더링](https://www.acmicpc.net/problem/17471) | 부분집합, BFS | [코드](BOJ/p17471/Solution.java) |
+| [17490 일감호에 다리 놓기](https://www.acmicpc.net/problem/17490) | 분리 집합 | [코드](SWEA/p17490/Solution.java) |
 | [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447) | 재귀 | [코드](BOJ/p2447/Solution.java) |
 | [2636 치즈](https://www.acmicpc.net/problem/2636) | BFS, 시뮬레이션 | [코드](BOJ/p2636/Solution.java) |
 | [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667) | BFS | [코드](BOJ/p2667/Solution.java) |
@@ -15,17 +16,18 @@
 | [4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | 다익스트라 | [코드](BOJ/p4485/Main.java) |
 | [5427 불](https://www.acmicpc.net/problem/5427) | BFS | [코드](BOJ/p5427/Main.java) |
 
+> 17490번은 백준 문제이며, 기존 풀이 경로 `SWEA/p17490/`는 유지합니다.
+
 ## SWEA
 
 | 문제 | 키워드 | 코드 |
 | --- | --- | --- |
 | 8382 방향 전환 | BFS, 수학 | [BFS](SWEA/p8382/Solution.java) · [수학](SWEA/p8382/SolutionMath.java) |
-| 1767 프로세서 연결하기 | 백트래킹 | [코드](SWEA/p1767/Solution.java) |
+| [1767 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf) | 백트래킹 | [코드](SWEA/p1767/Solution.java) |
 | [3421 수제 버거 장인](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWErcQmKy6kDFAXi) | 문제 풀이 | [코드](SWEA/p3421/Solution.java) · [풀이 2](SWEA/p3421/Solution2.java) |
-| 5251 | 문제 풀이 | [코드](SWEA/p5251/Solution.java) |
+| 5251 최소 이동 거리 | 문제 풀이 | [코드](SWEA/p5251/Solution.java) |
 | 5643 키 순서 | 플로이드 워셜, 도달 가능성 | [원본](SWEA/p5643/Solution.java) · [개선 풀이](SWEA/p5643/Solution2.java) |
 | [7465 창용 마을 무리의 개수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU) | 문제 풀이 | [코드](SWEA/p7465/Solution.java) |
-| 17490 | 문제 풀이 | [코드](SWEA/p17490/Solution.java) |
 
 ## Codetree
 
