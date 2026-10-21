@@ -22,11 +22,11 @@
 
 | 문제 | 키워드 | 코드 |
 | --- | --- | --- |
-| 8382 방향 전환 | BFS, 수학 | [BFS](SWEA/p8382/Solution.java) · [수학](SWEA/p8382/SolutionMath.java) |
+| [8382 방향 전환](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP) | BFS, 수학 | [BFS](SWEA/p8382/Solution.java) · [수학](SWEA/p8382/SolutionMath.java) |
 | [1767 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf) | 백트래킹 | [코드](SWEA/p1767/Solution.java) |
 | [3421 수제 버거 장인](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWErcQmKy6kDFAXi) | 문제 풀이 | [코드](SWEA/p3421/Solution.java) · [풀이 2](SWEA/p3421/Solution2.java) |
 | 5251 최소 이동 거리 | 문제 풀이 | [코드](SWEA/p5251/Solution.java) |
-| 5643 키 순서 | 플로이드 워셜, 도달 가능성 | [원본](SWEA/p5643/Solution.java) · [개선 풀이](SWEA/p5643/Solution2.java) |
+| [5643 키 순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo) | 플로이드 워셜, 도달 가능성 | [원본](SWEA/p5643/Solution.java) · [개선 풀이](SWEA/p5643/Solution2.java) |
 | [7465 창용 마을 무리의 개수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU) | 문제 풀이 | [코드](SWEA/p7465/Solution.java) |
 
 ## Codetree
