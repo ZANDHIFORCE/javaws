@@ -2,21 +2,37 @@
 
 ## 백준
 
+난이도는 solved.ac에서 확인한 항목부터 분류하며, 각 묶음은 문제번호순으로 정렬합니다.
+
+### Silver I
+
 | 문제 | 키워드 | 코드 |
 | --- | --- | --- |
-| [15686 치킨 배달](https://www.acmicpc.net/problem/15686) | 조합 | [코드](BOJ/p15686/Solution.java) |
-| [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | BFS, 3차원 방문 | [BFS](BOJ/p1600/bfsMain.java) · [DFS 연습](BOJ/p1600/Solution.java) |
-| [17281 ⚾](https://www.acmicpc.net/problem/17281) | 순열, 시뮬레이션 | [코드](BOJ/p17281/Main.java) |
-| [17471 게리맨더링](https://www.acmicpc.net/problem/17471) | 부분집합, BFS | [코드](BOJ/p17471/Solution.java) |
-| [17490 일감호에 다리 놓기](https://www.acmicpc.net/problem/17490) | 분리 집합 | [코드](SWEA/p17490/Solution.java) |
-| [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447) | 재귀 | [코드](BOJ/p2447/Solution.java) |
-| [2636 치즈](https://www.acmicpc.net/problem/2636) | BFS, 시뮬레이션 | [코드](BOJ/p2636/Solution.java) |
 | [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667) | BFS | [코드](BOJ/p2667/Solution.java) |
+
+### Gold V
+
+| 문제 | 키워드 | 코드 |
+| --- | --- | --- |
+| [2447 별 찍기 - 10](https://www.acmicpc.net/problem/2447) | 재귀 | [코드](BOJ/p2447/Solution.java) |
+
+### 난이도 미확인
+
+| 문제 | 키워드 | 코드 |
+| --- | --- | --- |
+| [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | BFS, 3차원 방문 | [BFS](BOJ/p1600/bfsMain.java) · [DFS 연습](BOJ/p1600/Solution.java) |
+| [2636 치즈](https://www.acmicpc.net/problem/2636) | BFS, 시뮬레이션 | [코드](BOJ/p2636/Solution.java) |
 | [3109 빵집](https://www.acmicpc.net/problem/3109) | DFS, 그리디 | [코드](BOJ/p3109/Solution.java) |
 | [4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | 다익스트라 | [코드](BOJ/p4485/Main.java) |
 | [5427 불](https://www.acmicpc.net/problem/5427) | BFS | [코드](BOJ/p5427/Main.java) |
+| [15686 치킨 배달](https://www.acmicpc.net/problem/15686) | 조합 | [코드](BOJ/p15686/Solution.java) |
+| [17281 ⚾](https://www.acmicpc.net/problem/17281) | 순열, 시뮬레이션 | [코드](BOJ/p17281/Main.java) |
+| [17471 게리맨더링](https://www.acmicpc.net/problem/17471) | 부분집합, BFS | [코드](BOJ/p17471/Solution.java) |
+| [17490 일감호에 다리 놓기](https://www.acmicpc.net/problem/17490) | 분리 집합 | [코드](SWEA/p17490/Solution.java) |
 
 > 17490번은 백준 문제이며, 기존 풀이 경로 `SWEA/p17490/`는 유지합니다.
+
+난이도 출처: solved.ac의 [2667 Silver I](https://solved.ac/problems/level/10?page=2), [2447 Gold V](https://solved.ac/problems/level/11?page=2).
 
 ## SWEA
 
