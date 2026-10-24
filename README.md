@@ -48,15 +48,15 @@
 
 | 문제 | 키워드 | 코드 |
 | --- | --- | --- |
-| [3421 수제 버거 장인](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWErcQmKy6kDFAXi) | 문제 풀이 | [코드](SWEA/p3421/Solution.java) · [풀이 2](SWEA/p3421/Solution2.java) |
+| [3421 수제 버거 장인](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWErcQmKy6kDFAXi) | 문제 풀이 | [코드](SWEA/p3421/Solution.java) · [풀이 2](SWEA/p3421/Solution2.java) · [입력 1](SWEA/p3421/sample_input.txt) · [입력 2](SWEA/p3421/sample_input2.txt) · [출력](SWEA/p3421/sample_output.txt) |
 
 ### 난이도 미확인
 
 | 문제 | 키워드 | 코드 |
 | --- | --- | --- |
 | [1767 프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf) | 백트래킹 | [코드](SWEA/p1767/Solution.java) |
-| 5251 최소 이동 거리 | 문제 풀이 | [코드](SWEA/p5251/Solution.java) |
-| [5643 키 순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo) | 플로이드 워셜, 도달 가능성 | [원본](SWEA/p5643/Solution.java) · [개선 풀이](SWEA/p5643/Solution2.java) |
+| 5251 최소 이동 거리 | 문제 풀이 | [코드](SWEA/p5251/Solution.java) · [입력](SWEA/p5251/sample_input.txt) · [출력](SWEA/p5251/sample_output.txt) |
+| [5643 키 순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo) | 플로이드 워셜, 도달 가능성 | [원본](SWEA/p5643/Solution.java) · [개선 풀이](SWEA/p5643/Solution2.java) · [입력](SWEA/p5643/sample_input.txt) · [출력](SWEA/p5643/sample_output.txt) |
 | [8382 방향 전환](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWyNQrCahHcDFAVP) | BFS, 수학 | [BFS](SWEA/p8382/Solution.java) · [수학](SWEA/p8382/SolutionMath.java) |
 
 난이도 출처: SW Expert Academy 공식 목록의 [3421 D5](https://swexpertacademy.com/main/code/problem/problemList.do?orderBy=LASTEST_COMMENT&pageIndex=4&pageSize=30&problemTitle=&select-1=), [7465 D4](https://swexpertacademy.com/main/code/problem/problemList.do?pageIndex=4&pageSize=30&problemLevel=4).
