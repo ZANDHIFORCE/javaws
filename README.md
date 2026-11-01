@@ -33,7 +33,7 @@
 | [15686 치킨 배달](https://www.acmicpc.net/problem/15686) | 조합 | [코드](BOJ/p15686/Solution.java) |
 | [17281 ⚾](https://www.acmicpc.net/problem/17281) | 순열, 시뮬레이션 | [코드](BOJ/p17281/Main.java) |
 | [17471 게리맨더링](https://www.acmicpc.net/problem/17471) | 부분집합, BFS | [코드](BOJ/p17471/Solution.java) |
-| [17490 일감호에 다리 놓기](https://www.acmicpc.net/problem/17490) | 분리 집합 | [코드](SWEA/p17490/Solution.java) |
+| [17490 일감호에 다리 놓기](https://www.acmicpc.net/problem/17490) | 분리 집합 | [코드](SWEA/p17490/Solution.java) · [입력 1](SWEA/p17490/test_input1.txt) · [입력 2](SWEA/p17490/test_input2.txt) |
 
 > 17490번은 백준 문제이며, 기존 풀이 경로 `SWEA/p17490/`는 유지합니다.
 
