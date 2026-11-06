@@ -6,6 +6,7 @@
   - [Silver I](#silver-i)
   - [Gold V](#gold-v)
   - [Gold III](#gold-iii)
+  - [Gold II](#gold-ii)
   - [난이도 미확인](#난이도-미확인)
 - [SWEA](#swea)
   - [D4](#d4)
@@ -39,12 +40,17 @@
 | --- | --- | --- |
 | [1600 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | BFS, 3차원 방문 | [BFS](BOJ/p1600/bfsMain.java) · [DFS 연습](BOJ/p1600/Solution.java) |
 
+### Gold II
+
+| 문제 | 키워드 | 코드 |
+| --- | --- | --- |
+| [3109 빵집](https://www.acmicpc.net/problem/3109) | DFS, 그리디 | [코드](BOJ/p3109/Solution.java) |
+
 ### 난이도 미확인
 
 | 문제 | 키워드 | 코드 |
 | --- | --- | --- |
 | [2636 치즈](https://www.acmicpc.net/problem/2636) | BFS, 시뮬레이션 | [코드](BOJ/p2636/Solution.java) |
-| [3109 빵집](https://www.acmicpc.net/problem/3109) | DFS, 그리디 | [코드](BOJ/p3109/Solution.java) |
 | [4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | 다익스트라 | [코드](BOJ/p4485/Main.java) |
 | [5427 불](https://www.acmicpc.net/problem/5427) | BFS | [코드](BOJ/p5427/Main.java) |
 | [15686 치킨 배달](https://www.acmicpc.net/problem/15686) | 조합 | [코드](BOJ/p15686/Solution.java) |
@@ -54,7 +60,7 @@
 
 > 17490번은 백준 문제이며, 기존 풀이 경로 `SWEA/p17490/`는 유지합니다.
 
-난이도 출처: solved.ac의 [2667 Silver I](https://solved.ac/problems/level/10?page=2), [2447 Gold V](https://solved.ac/problems/level/11?page=2), [1600 Gold III](https://solved.ac/problems/level/13?page=1).
+난이도 출처: solved.ac의 [2667 Silver I](https://solved.ac/problems/level/10?page=2), [2447 Gold V](https://solved.ac/problems/level/11?page=2), [1600 Gold III](https://solved.ac/problems/level/13?page=1), [3109 Gold II](https://solved.ac/problems/level/14?page=3).
 
 ## SWEA
 
